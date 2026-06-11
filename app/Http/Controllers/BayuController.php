@@ -7,5 +7,5 @@ use Illuminate\Http\Request;
 
 class BayuController extends Controller
 {
-    //
+    echo 123;
 }
